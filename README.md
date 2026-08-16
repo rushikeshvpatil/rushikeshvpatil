@@ -25,4 +25,4 @@ B.Tech Chemical Engineering @ IIT Jodhpur (CGPA 8.31, Dept Rank 2) | Systems & F
 
 ### Competitive Programming
 [![LeetCode](https://img.shields.io/badge/LeetCode-1867-orange?style=for-the-badge&logo=leetcode&logoColor=white)](your-leetcode-url)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1348-blue?style=for-the-badge&logo=codeforces&logoColor=white)](your-codeforces-url)<img width="1919" height="736" alt="image" src="https://github.com/user-attachments/assets/a9d6ce22-a191-4e8d-95bc-25b79ef0ea2a" />
+[![Codeforces](https://img.shields.io/badge/Codeforces-1348-blue?style=for-the-badge&logo=codeforces&logoColor=white)](your-codeforces-url)<img width="1919" 
