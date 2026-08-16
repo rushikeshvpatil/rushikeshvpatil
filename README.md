@@ -1,27 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Rushikesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20and%20Backend%2FSystems%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20202f,35:38334c,70:554963,100:282637&height=165&section=header&text=Rushikesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20%7C%20Systems%20Developer%20%7C%20Competitive%20Programming&descAlignY=70&descSize=16" width="100%"/>
 
-### Open to SDE Internships 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-patil-812852323/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rushikesh127/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/killerseven)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshvpatil15@gmail.com)
+<a href="https://www.linkedin.com/in/rushikesh-patil-812852323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Rushikesh127/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/killerseven"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="mailto:rushikeshvpatil15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
-
-<br>
-
-I spend most of my time solving algorithmic problems and building things where I can see exactly what's happening underneath — a hand-rolled graph engine instead of a library call, a raw query instead of an ORM abstraction. Currently focused on backend and systems-level engineering.
-
 <br>
 
 ## 🎯 Currently
 
-🔭 Building an **Interview Prep Platform**
-🧩 Grinding CP daily, chasing the next rating jump on LeetCode and Codeforces
-📚 Going deeper into OS, DBMS, and networks — the stuff that explains *why*, not just *how*
+🔭 **Building:** Interview Prep Platform  
+🧩 **Grinding:** Competitive programming — LeetCode & Codeforces  
+⚙️ **Learning:** OS, DBMS & Computer Networks
 
 <br>
 
@@ -39,12 +32,15 @@ I spend most of my time solving algorithmic problems and building things where I
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Database**
 
@@ -54,10 +50,12 @@ I spend most of my time solving algorithmic problems and building things where I
 
 **Cloud & Tools**
 
-![AWS](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -68,7 +66,8 @@ I spend most of my time solving algorithmic problems and building things where I
 <td width="100%">
 
 ### 🔀 Network Routing Simulator
-A C++ graph engine at the core — Dijkstra for shortest paths, Prim's and Kruskal's for MST — exposed through a Node/Express API and rendered live with D3.js. CLI and web interface share the same underlying engine. Deployed on AWS EC2 with PM2 keeping it alive.
+
+A **C++ graph engine** at the core — Dijkstra for shortest paths, Prim's and Kruskal's for MST — exposed through a Node/Express API and rendered live with D3.js. CLI and web interface share the same underlying engine. Deployed on AWS EC2 with PM2 for auto-restart.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -76,15 +75,17 @@ A C++ graph engine at the core — Dijkstra for shortest paths, Prim's and Krusk
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**[🔗 Live Demo](http://3.26.38.61:5002)**
+**[🔗 Live Demo](http://3.26.38.61:5002/)**
 
 </td>
 </tr>
+
 <tr>
 <td width="100%">
 
 ### 🛒 Kartify
-A local marketplace built to handle concurrency correctly — inventory updates use `findOneAndUpdate` with the stock check embedded directly in the query filter, so two buyers can't oversell the same item. Shop discovery is location-aware, using Leaflet and haversine distance to surface what's actually nearby.
+
+A local marketplace built to handle concurrency correctly — inventory updates use `findOneAndUpdate` with the stock check embedded directly in the query filter, preventing two buyers from overselling the same item. Shop discovery is location-aware, using Leaflet and haversine distance to surface what's actually nearby.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -95,10 +96,12 @@ A local marketplace built to handle concurrency correctly — inventory updates 
 
 </td>
 </tr>
+
 <tr>
 <td width="100%">
 
 ### 🧠 Interview Prep Platform
+
 *Currently building*
 
 </td>
@@ -121,8 +124,6 @@ A local marketplace built to handle concurrency correctly — inventory updates 
 
 <div align="center">
 
-💬 **Open to SDE internship opportunities — feel free to reach out**
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:20202f,35:38334c,70:554963,100:282637&height=130&section=footer)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
