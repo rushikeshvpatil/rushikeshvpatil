@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Rushikesh Patil
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Rushikesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%26%20Systems%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
-### Full-Stack & Systems Developer · Open to SDE Internships
+### Open to SDE Internships 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-patil-812852323/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rushikesh127/)
@@ -10,6 +10,14 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshvpatil15@gmail.com)
 
 </div>
+
+<br>
+
+## 🎯 Currently
+
+🔭 Building an **Interview Prep Platform**
+🧩 Solving algorithmic problems daily — pushing toward the next CP milestone
+📚 Sharpening systems fundamentals: OS, DBMS, Computer Networks
 
 <br>
 
@@ -120,3 +128,5 @@ MERN-stack local marketplace with buyer/seller workflows. Race-condition-safe in
 💬 **Open to SDE internship opportunities — feel free to reach out**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
