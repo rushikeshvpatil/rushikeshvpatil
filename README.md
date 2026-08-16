@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Rushikesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%26%20Systems%20Developer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Rushikesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20and%20Systems%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 ### Open to SDE Internships 🚀
 
