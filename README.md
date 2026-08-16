@@ -1,41 +1,51 @@
+<div align="center">
+
 # Rushikesh Patil
 
-Chemical Engineering @ IIT Jodhpur (CGPA 8.31, Dept Rank 2) — building systems and full-stack projects, looking for SDE internships.
+**Chemical Engineering @ IIT Jodhpur** · CGPA 8.31, Dept Rank 2
+Building systems & full-stack projects · Looking for SDE internships
 
-```
-100,000 nodes · 200,000 edges · ~700ms
-C++ graph engine → Node/Express API → D3 visualization → AWS EC2
-```
-That's the Network Routing Simulator below. Dijkstra for shortest path, Prim/Kruskal for MST, benchmarked from 10K to 100K nodes.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-patil-812852323/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rushikesh127/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/killerseven)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rushikeshvpatil15@gmail.com)
 
----
+</div>
+
+<br>
 
 ## Projects
 
-**Network Routing Simulator**
+### 🔀 Network Routing Simulator
+Full-stack routing engine — C++ graph core with a Node/Express API and D3.js visualization, CLI + web sharing the same engine. Dijkstra for shortest path, Prim/Kruskal for MST. Deployed on AWS EC2 with PM2 for auto-restart.
+
 `C++` `Node.js` `Express` `D3.js` `AWS EC2`
-Full-stack routing engine — CLI + web dual interface sharing one core C++ engine. Dynamic graphs with no fixed-size limits, unordered-map adjacency lists. Deployed on EC2 with PM2 for auto-restart.
-[Demo →](http://3.26.38.61:5002)
+**[Live Demo →](http://3.26.38.61:5002)**
 
-**Kartify**
+### 🛒 Kartify
+MERN-stack local marketplace with buyer/seller workflows. Race-condition-safe inventory updates using `findOneAndUpdate` with the stock check embedded in the query filter. Location-aware shop discovery via Leaflet and haversine distance.
+
 `React` `Node.js` `Express` `MongoDB` `JWT` `Leaflet`
-MERN marketplace with buyer/seller workflows. Race-condition-safe inventory updates via `findOneAndUpdate` with stock-check embedded in the query filter. Location-aware discovery using haversine distance.
 
-**Interview Prep Platform** — in progress
+### 🧠 Interview Prep Platform
+*In progress*
 
----
+<br>
 
 ## Competitive Programming
 
-LeetCode 1867 (Top 5.71%) · Codeforces 1348 (Pupil) · 500+ problems solved
+<div align="center">
 
----
+| LeetCode | Codeforces | Problems Solved |
+|:---:|:---:|:---:|
+| **1867** (Top 5.71%) | **1348** (Pupil) | **500+** |
 
-## Stats
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rushikeshvpatil&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshvpatil&layout=compact&theme=gruvbox&hide_border=true&hide_title=true" width="48%" />
+<br>
 
----
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/rushikesh-patil-812852323/) · [LeetCode](https://leetcode.com/u/Rushikesh127/) · [Codeforces](https://codeforces.com/profile/killerseven) · rushikeshvpatil15@gmail.com
+*Open to SDE internship opportunities — feel free to reach out*
+
+</div>
