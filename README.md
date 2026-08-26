@@ -13,11 +13,10 @@
 ## 🎯 Currently
 
 🔭 **Building:** 
-- **Cadence AI** — Real-Time Voice Intelligence & Automated Meeting Minutes (MOM) Engine
 - **Interview Prep Platform** — Interactive technical preparation & assessment platform  
 
 🧩 **Grinding:** Competitive programming — LeetCode (Knight) & Codeforces  
-⚙️ **Exploring:** Systems Architecture, Speech Diarization Pipelines & LLM Structured Outputs
+⚙️ **Exploring:** Distributed Systems & High-Concurrency Backend Architectures
 
 <br>
      
@@ -36,10 +35,11 @@
 
 ![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyAnnote](https://img.shields.io/badge/PyAnnote_Audio-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Backend & Streaming**
+**Backend & Systems**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -59,6 +59,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Cloud & Tools**
 
@@ -112,18 +113,20 @@ A local marketplace built to handle concurrency correctly — inventory updates 
 <tr>
 <td width="100%">
 
-### 🎙️ Cadence AI — Voice Intelligence & Automated MOM Engine
+### 🎙️ Cadence AI — Voice Intelligence & Conversation Memory System
 
-An end-to-end meeting intelligence pipeline that transforms raw audio recordings and live microphone streams into structured Minutes of Meeting (MOM). Features timestamped multi-speaker diarization using **PyAnnote.audio**, low-latency transcription via **Faster-Whisper**, and **Pydantic-enforced structured LLM extraction** for summaries, key decisions, and prioritized action-item matrices.
+A local-first speech intelligence platform that transforms multi-speaker audio recordings and live microphone streams into structured, searchable knowledge. Features timestamped acoustic diarization via **PyAnnote Community-1**, low-latency transcription with **Faster-Whisper**, and **Pydantic-enforced structured LLM extraction (Groq)** for executive summaries, key decisions, and prioritized action items with **SQLite** persistence and synchronized audio playback.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![PyAnnote](https://img.shields.io/badge/PyAnnote-orange?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
-*Currently building*
+**[🔗 GitHub Repository](https://github.com/rushikeshvpatil/Cadence-AI)**
 
 </td>
 </tr>
